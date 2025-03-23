@@ -1,4 +1,4 @@
-# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> - Desafio de Projeto - Criando um sistema Bancário
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> - Desafio de Projeto - Criando um sistema Bancário com Python
 Repositório criado para apresentar o desafio de projeto proposto para o bootcamp: Suzano - Python Developer, realizado pela plataforma Digital Innovation One (DIO).
 
 ## :dart: Objetivo do projeto
